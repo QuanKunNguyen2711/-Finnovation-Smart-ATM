@@ -1,0 +1,7 @@
+COUNTRY="country"
+DOB="date_of_birth"
+EXPR_DATE="expiration_date"
+NAME="names"
+SUR_NAME="surname"
+PASSPORT_NUM="number"
+SEX="sex"
